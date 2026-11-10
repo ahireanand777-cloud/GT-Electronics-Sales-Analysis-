@@ -6,9 +6,16 @@ This project involves analyzing 10,000+ sales records for GT Electronics using M
 
 The objective was to transform raw sales data into meaningful insights to understand business performance and identify potential areas for improvement.
 
+
 ## Dashboard Preview
 
-![GT Electronics Sales Dashboard](dashboard_preview.png)
+![GT Electronics Sales Dashboard](GT%20Dashboard.png)
+
+## PowerPoint Presentation
+
+The presentation includes the executive summary, sales analysis, key business insights, and recommendations.
+
+[📊 View PowerPoint Presentation](Executive%20Summary%20of%20GT%20Electronics-%20FY2025.pptx)
 
 ## Key Analysis
 
