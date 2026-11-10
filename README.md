@@ -40,11 +40,13 @@ The objective was to transform raw sales data into meaningful insights to unders
 
 ## Project Files
 
+## Project Files
+
 | File | Description |
 |---|---|
-| `GT_Electronics_Sales_Dashboard.xlsx` | Excel dashboard and sales analysis |
-| `GT_Electronics_Sales_Analysis.pptx` | PowerPoint presentation with insights and recommendations |
-| `dashboard_preview.png` | Dashboard preview image |
+| `Executive Summary of GT Electronics- FY2025` | PowerPoint presentation containing sales analysis, executive summary, and business recommendations |
+| `GT Dashboard.png` | Excel dashboard preview |
+| Excel Dashboard | Interactive Excel workbook containing sales analysis and dashboard |
 
 ## Project Objective
 
