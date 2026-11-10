@@ -11,11 +11,10 @@ The objective was to transform raw sales data into meaningful insights to unders
 
 ![GT Electronics Sales Dashboard](GT%20Dashboard.png)
 
-## PowerPoint Presentation
+## 📑 Executive Summary
 
-The presentation includes the executive summary, sales analysis, key business insights, and recommendations.
+[📄 View Executive Summary (PDF)](./Executive%20Summary%20of%20GT%20Electronics-%20FY2025%20(1).pdf)
 
-[📊 View PowerPoint Presentation](Executive%20Summary%20of%20GT%20Electronics-%20FY2025.pptx)
 
 ## Key Analysis
 
